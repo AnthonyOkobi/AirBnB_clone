@@ -1,0 +1,6 @@
+--2023-03-23 10:36:55--  https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2021/12/98f4ac1b0644512ce7ae91a9e8e61e8fe174911d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.217.46.190, 52.217.42.238, 54.231.233.48, ...
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.217.46.190|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2023-03-23 10:36:57 ERROR 400: Bad Request.
+
